@@ -1,22 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .center {
-            text-align: center;
-        }
-        .left {
-            text-align: left;
-        }
-        .icons img {
-            margin: 5px;
-        }
-    </style>
-</head>
-<body>
-    <div class="center">
+
+<div class="center">
         <h1>Hi There👋, I'm</h1>
         <section>
             <p class="typing-effect">
@@ -27,7 +10,7 @@
         </section>
     </div>
 
-    <div class="left">
+<div class="left">
         <h3>Languages and Tools:</h3>
         <p class="icons">
             <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -45,5 +28,3 @@
             <!-- Add other icons similarly -->
         </p>
     </div>
-</body>
-</html>
