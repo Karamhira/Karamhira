@@ -1,7 +1,7 @@
 <h1 align="center">Hi There👋, I'm Karamvir Hira</h1>
 <section>
         <p class="typing-effect">
-            <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F7F7F7&width=435&lines=Hello+World!;Computer+Science+Student;Aspiring+Developer" alt="Typing SVG" /></a>
+            <a align="center href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F7F7F7&width=435&lines=Hello+World!;Computer+Science+Student;Aspiring+Developer" alt="Typing SVG" /></a>
         </p>
 </section>
     
