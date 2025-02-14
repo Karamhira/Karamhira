@@ -2,11 +2,12 @@
 <div class="center">
         <h1>Hi There👋, I'm Karamvir Singh Hira</h1>
         <section>
-            <p class="typing-effect">
-                <a href="https://git.io/typing-svg">
-                    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hello+World!;" alt="Typing SVG" />
-                </a>
-            </p>
+## 🎓 About Me
+
+I'm a **third-year Computer Science student** at **McMaster University** and an aspiring **Software Engineer**. I have a passion for technology and software development, and I'm always eager to learn and explore new ideas.
+
+In my free time, I enjoy going the gym, biking through scenic trails, and running to clear my mind and stay active.
+
         </section>
     </div>
 
