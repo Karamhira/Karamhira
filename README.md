@@ -6,8 +6,6 @@
 
 I'm a **third-year Computer Science student** at **McMaster University** and an aspiring **Software Engineer**. I have a passion for technology and software development, and I'm always eager to learn and explore new ideas.
 
-In my free time, I enjoy going to the gym, biking through scenic trails, and running to clear my mind and stay active.
-
 ---
 
 ### 🛠 Languages and Tools:
