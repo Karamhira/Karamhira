@@ -4,7 +4,7 @@
 
 ## 🎓 About Me
 
-I'm a **third-year Computer Science student** at **McMaster University** and an aspiring **Software Engineer**. I have a passion for technology and software development, and I'm always eager to learn and explore new ideas.
+I'm a **Computer Science graduate from McMaster University** and an aspiring **Software Engineer**. I'm passionate about building impactful software, solving challenging problems, and continuously expanding my knowledge across software development and emerging technologies.
 
 ---
 
